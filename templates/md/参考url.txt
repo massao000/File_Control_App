@@ -1,0 +1,8 @@
+マークダウン基礎
+https://qiita.com/Minalinsky_1911/items/b684cfabe0f2fde0c67b
+
+様々なマークダウンのまとめたgithub URL
+https://github.com/matiassingers/awesome-readme
+
+フォントカラー
+https://qiita.com/twipg/items/d8043cd4681a2780c160
