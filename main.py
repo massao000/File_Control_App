@@ -1,4 +1,3 @@
-from os import terminal_size
 from package import *
 
 # sg.theme("DarkGreen7")
