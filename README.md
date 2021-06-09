@@ -1,10 +1,5 @@
-<h1 align = "center">
-  <br>
-  <a href="img" ><img src="" width="500" alt=" File Control App ">
-  </a>
-</h1>
 <p align="center">
-  <h2 align="center">File Control App</h2>
+  <h1 align="center">File Control App</h2>
 </p>
 <p align="center">
   <a href="https://img.shields.io/badge/Python-v3.9.0-blue">
@@ -21,11 +16,20 @@
 
 # アプリケーション概要
 
-簡単にこれらのことができるGUIアプリケーション
+## 簡単にこれらのことができるGUIアプリケーション
 * 連番ファイル作成
 * ファイル名変更
 * 連番付与
 * テンプレート
+
+## カスタマイズ機能
+* `template` フォルダ
+    * 自分だけのフォルダorファイルのテンプレートが作成可能
+
+* `customize_ex.txt`
+    * 使う拡張子だけのカスタマイズ
+
+
 
 # 機能
 
@@ -123,7 +127,31 @@
 
 ## デモ
 
+<div>
+    <h1 align="center">連番作成</h1>
+    <img src="https://user-images.githubusercontent.com/69783019/121341103-4dd5db80-c95b-11eb-9735-e81003ecf0a1.gif" width="500" alt="Grant">
+</div>
 
+<br>
+
+<div>
+    <h1 align="center">ファイル名変更</h1>
+    <img src="" width="500" alt="Grant">
+</div>
+
+<br>
+
+<div>
+<h1 align="center">連番付与</h1>
+    <img src="https://user-images.githubusercontent.com/69783019/121341270-752ca880-c95b-11eb-836a-92f2e69fadcd.gif" width="500" alt="Grant">
+</div>
+
+<br>
+
+<div>
+<h1 align="center">テンプレート</h1>
+    <img src="https://user-images.githubusercontent.com/69783019/121341281-778f0280-c95b-11eb-844b-0e616dea3a93.gif" width="500" alt="Grant">
+</div>
 
 # 設計
 
@@ -131,8 +159,8 @@
     * `main.py`
 * package
     * `main.py`のプログラムパッケージフォルダ
-* template
-    * 自分のテンプレートファイルを保存できる
+* template フォルダ
+    * 自分のテンプレートファイルorフォルダを保存できる
 * `customize_ex.txt`
     * 拡張子のカスタマイズが可能
 
