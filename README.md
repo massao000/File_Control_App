@@ -129,34 +129,36 @@
 
 <div>
     <h1 align="center">連番作成</h1>
-    <img src="https://user-images.githubusercontent.com/69783019/121341103-4dd5db80-c95b-11eb-9735-e81003ecf0a1.gif" width="500" alt="Grant">
+    <img src="https://user-images.githubusercontent.com/69783019/121341103-4dd5db80-c95b-11eb-9735-e81003ecf0a1.gif" width="500" alt="demo1">
 </div>
 
 <br>
 
 <div>
     <h1 align="center">ファイル名変更</h1>
-    <img src="" width="500" alt="Grant">
+    <img src="https://user-images.githubusercontent.com/69783019/121675388-4bf05180-caee-11eb-9258-901cadbe73e8.gif" width="500" alt="demo2">
 </div>
 
 <br>
 
 <div>
 <h1 align="center">連番付与</h1>
-    <img src="https://user-images.githubusercontent.com/69783019/121341270-752ca880-c95b-11eb-836a-92f2e69fadcd.gif" width="500" alt="Grant">
+    <img src="https://user-images.githubusercontent.com/69783019/121341270-752ca880-c95b-11eb-836a-92f2e69fadcd.gif" width="500" alt="demo3">
 </div>
 
 <br>
 
 <div>
 <h1 align="center">テンプレート</h1>
-    <img src="https://user-images.githubusercontent.com/69783019/121341281-778f0280-c95b-11eb-844b-0e616dea3a93.gif" width="500" alt="Grant">
+    <img src="https://user-images.githubusercontent.com/69783019/121341281-778f0280-c95b-11eb-844b-0e616dea3a93.gif" width="500" alt="demo4">
 </div>
 
 # 設計
 
+* `File_Control_App.exe`
+    * アプリケーションファイル
 * `main.py`
-    * `main.py`
+    * メインプログラムファイル
 * package
     * `main.py`のプログラムパッケージフォルダ
 * template フォルダ
